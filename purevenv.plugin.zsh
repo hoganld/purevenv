@@ -1,0 +1,1 @@
+purevenv.zsh
